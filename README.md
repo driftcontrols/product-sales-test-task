@@ -16,8 +16,11 @@ npm install
 npm run dev
 ```
 
-Также можно работать внутри StackBlitz
+Также можно работать внутри StackBlitz \
 https://stackblitz.com/edit/vitejs-vite-28hsg3vy?file=README.md
+
+Или внутри CodeSandbox \
+https://codesandbox.io/p/sandbox/sq8kmw
 
 ## Что умеет приложение
 
